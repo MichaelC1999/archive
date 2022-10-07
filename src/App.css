@@ -24,14 +24,16 @@
   color: white;
 }
 
-.App-link {
+.App-button {
   color: #61dafb;
+  height: "30px"
 }
 
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
